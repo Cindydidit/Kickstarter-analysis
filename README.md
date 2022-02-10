@@ -8,7 +8,7 @@
 
 ## Analysis and Challenges
 
-### I analyzed the campaigns varying outcomes based on their respective launch dates by extracting the necessary data (years) using Excel's YEAR() function in a new column, and finally creating a line chart (Theatre Outcomes by Launch Date) to visualize the information. The chart clearly displayed the number of theatre campaigns which were successful, those which failed, and those which were canceled, as well as the months the campaigns were started.
+### I analyzed the campaigns' varying outcomes based on their respective launch dates by extracting the necessary data (years) using Excel's YEAR() function in a new column, and finally creating a line chart (Theatre Outcomes by Launch Date) to visualize the information. The chart clearly displayed the number of theatre campaigns which were successful, those which failed, and those which were canceled, as well as the months the campaigns were started.
 
 ### As far as the outcomes of the campaigns of plays based on their goals, I created a line chart illustration of essential data such as the percentages of successful, failed, and canceled plays based on their funding goal amounts. In order to construct an informative chart, I had to first create a new sheet and mine the aforementioned data using Excel's COUNTIFS() function. This enable me to produce a clear and self-explanatory chart.
 
