@@ -1,10 +1,10 @@
-# Kickstarter-analysis. Analize Kickstarter data to uncover trends
+# Kickstarter-analysis. Analize kickstarter data to uncover trends
 
 # kickstarting with Excel
 
 ## Overview of Project
 
-### This Kickstarter project enables me to use my data analysis and visualization skills to provide my client (Louise) with answers that will help her make tactical decisions. Louise's latest play did not meet its fundraising goal; she now wants to compare various campaigns and obtain more insight on the correlation between their launch dates and their funding goals.
+### This kickstarter project enables me to use my data analysis and visualization skills to provide my client (Louise) with answers that will help her make tactical decisions. Louise's latest play did not meet its fundraising goal; she now wants to compare various campaigns and obtain more insight on the correlation between their launch dates and their funding goals.
 
 ## Analysis and Challenges
 
